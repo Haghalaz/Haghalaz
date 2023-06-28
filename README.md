@@ -20,7 +20,7 @@
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,materialui,tailwind,react&perline=5" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,materialui,tailwind,react,next&perline=5" />
 <br/>
 <br/>
 
