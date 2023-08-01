@@ -15,7 +15,7 @@
 <br/>
 
 ### Skils
-<img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,bootstrap,materialui,tailwind,react,next,postgres,mysql&perline=5" />
+<img src="https://skillicons.dev/icons?i=html,css,js,coffeescript,php,nodejs,bootstrap,materialui,tailwind,react,next,postgres,mysql&perline=5" />
 <br/>
 
 ### DevOps
