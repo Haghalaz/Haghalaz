@@ -7,6 +7,12 @@
 </div>
 <br/>
 
+## Codewars
+<br/>
+<p align="center">
+<img src="https://www.codewars.com/users/Haghalaz/badges/large">
+</p>
+
 ## My Skill Set
 <br/>
 
