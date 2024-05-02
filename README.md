@@ -1,9 +1,10 @@
 ### <div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=FFFFFF&center=true&multiline=true&width=435&height=70&lines=Hello+World!+I'm+Luiz+Coelho;I'm+a+Frontend+Developer)](https://git.io/typing-svg)</div>
 
 ## GitHub Stats
-<div align="center">>  
-  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=haghalaz&show_icons=true&count_private=true&hide_border=true&title_color=61DBFB&icon_color=61DBFB&text_color=fefefe&bg_color=0d1117" alt="Github Stats" /> 
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haghalaz&layout=compact&hide_border=true&title_color=61DBFB&text_color=fefefe&bg_color=0d1117" alt="Language Stats" />
+<div align="center">
+  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=haghalaz&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Github Stats" /> 
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haghalaz&layout=compact&hide_border=true&theme=tokyonight" alt="Language Stats" />
+  <img height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=haghalaz/&hide_border=true&theme=tokyonight" alt="Language Stats" />
 </div>
 <br/>
 
@@ -36,7 +37,7 @@
 
 ## Portfolio
 
-![Portfolio Cover](http://url/to/img.png)
+![Portfolio Cover](PortfolioCoverCropped.png)
 
 Check out the portfolio [here](https://haghalaz.github.io/portfolio/).
   
