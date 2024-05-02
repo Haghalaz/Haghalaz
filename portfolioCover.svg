@@ -1,9 +1,9 @@
 <svg fill="none" viewBox="0 0" width="100%" height="300px" xmlns="http://www.w3.org/2000/svg">
-<foreignObject width="100%" height="100%">
-<div style="border-radius: 0.5rem; height: 100%; width: 100%; overflow: hidden; position: relative;">
-<a href="https://haghalaz.github.io/portfolio/" target="_blank">
-<img src="https://raw.githubusercontent.com/Haghalaz/portfolio/main/src/assets/imgs/portfolioCover.png" alt="Portfolio" style="object-fit: cover; width: 100%; height: 100%;"/>
-</a>
-</div>
-</foreignObject>
+  <foreignObject width="100%" height="100%">
+    <div style="border-radius: 0.5rem; height: 100%; width: 100%; overflow: hidden; position: relative;">
+      <a href="https://haghalaz.github.io/portfolio/" target="_blank">
+        <img src="https://raw.githubusercontent.com/Haghalaz/portfolio/main/src/assets/imgs/portfolioCover.png" alt="Portfolio" style="object-fit: cover; width: 100%; height: 100%;"/>
+      </a>
+    </div>
+  </foreignObject>
 </svg>
