@@ -16,7 +16,7 @@
 
 ## My Skill Set
 ### Dev
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,coffeescript,nodejs,react,next,vite,jest,postgres,mysql&perline=8" alt="Dev Skills" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,next,vite,angular,jest,cypress,postgres,mysql&perline=8" alt="Dev Skills" />
 <br/>
 
 ### UI 
