@@ -66,8 +66,19 @@ I care about code quality, developer experience, and shipping products that actu
 
 ---
 
+### Portfolio
+
+![Portfolio Cover](PortfolioCoverCropped.png)
+
+
+<div align="center">
+Check out the portfolio <a href="https://haghalaz.github.io/portfolio/">Here</a>
+</div>
+
+</br>
+
 <p align="center">
-  Let's connect &mdash; <a href="https://linkedin.com/in/haghalaz">LinkedIn</a> &middot; <a href="mailto:">Email</a> &middot; <a href="https://haghalaz.github.io/portfolio/">Portfolio</a>
+  Let's connect &mdash; <a href="https://linkedin.com/in/haghalaz">LinkedIn</a> &middot; <a href="mailto:">Email</a>; 
 </p>
 
 <p align="center">
