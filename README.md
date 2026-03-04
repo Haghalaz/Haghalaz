@@ -1,54 +1,75 @@
-### <div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=FFFFFF&center=true&multiline=true&width=435&height=70&lines=Hello+World!+I'm+Luiz+Coelho;I'm+a+Frontend+Developer)](https://git.io/typing-svg)</div>
-
-## GitHub Stats
 <div align="center">
-  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=haghalaz&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Github Stats" /> 
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haghalaz&layout=compact&hide_border=true&theme=tokyonight" alt="Language Stats" />
-  <img height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=haghalaz/&hide_border=true&theme=tokyonight" alt="Language Stats" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&color=F7F7F7&center=true&multiline=true&repeat=false&width=435&lines=Building+performant%2C+scalable%2C;and+user-centric+web+experiences." alt="Typing SVG"/>
 </div>
-<br/>
 
-## Codewars
-<div align="center">
-<img src="https://www.codewars.com/users/Haghalaz/badges/large" alt="CodeWars Badge">
-</div>
-<br/>
+</br>
 
-## My Skill Set
-### Dev
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,next,vite,angular,jest,cypress,postgres,mysql&perline=8" alt="Dev Skills" />
-<br/>
+<p align="center">
+  <a href="https://linkedin.com/in/haghalaz">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/haghalaz">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://haghalaz.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
-### UI 
-<img src="https://skillicons.dev/icons?i=bootstrap,materialui,tailwind&perline=8" alt="UI Skills" />
-<br/>
+---
 
-### Softwares
-<img src="https://skillicons.dev/icons?i=webstorm,vscode,notion,ae,ai,ps,figma,blender&perline=8" alt="Softwares Skills" />
-<br/>
+### GitHub Stats
 
-### DevOps
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,&perline=8" alt="DevOps Skills" />
-<br/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haghalaz&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" alt="GitHub Streak" />
+</p>
 
-### Hobbies
-<img src="https://skillicons.dev/icons?i=gamemakerstudio,godot&perline=8" alt="Hobbies Skills" />
-<br/>
+---
 
-## Portfolio
+### About
 
-![Portfolio Cover](PortfolioCoverCropped.png)
+I'm a Frontend Developer focused on crafting clean interfaces and solid architectures. I work across the modern JavaScript ecosystem from **React** and **Next.js** to **Angular** with a strong foundation in **TypeScript**, testing, and component-driven development.
 
-Check out the portfolio [here](https://haghalaz.github.io/portfolio/).
-  
-<div align="center" >
-  <h2> Contact me </h2>
-  <div>
-    <a href="https://github.com/haghalaz" target="_blank">
-      <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a>
-    <a href="https://linkedin.com/in/haghalaz" target="_blank">
-      <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>
-  </div>
+I care about code quality, developer experience, and shipping products that actually solve problems.
 
-  <img style="margin: auto" src="https://komarev.com/ghpvc/?username=haghalaz&&style=square" alt="Profile count views"/>
-</div>
+---
+
+### Tech Stack
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vite,angular&perline=8" />
+
+**Styling**
+
+<img src="https://skillicons.dev/icons?i=bootstrap,materialui,tailwind&perline=8" />
+
+**Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,mysql,supabase&perline=8" />
+
+**Testing**
+
+<img src="https://skillicons.dev/icons?i=jest,cypress&perline=8" />
+
+**Software & Design**
+
+<img src="https://skillicons.dev/icons?i=webstorm,vscode,notion,ae,ai,ps,figma,blender&perline=8" />
+
+**DevOps & Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman&perline=8" />
+
+**Hobbies**
+
+<img src="https://skillicons.dev/icons?i=gamemakerstudio,godot&perline=8" />
+
+---
+
+<p align="center">
+  Let's connect &mdash; <a href="https://linkedin.com/in/haghalaz">LinkedIn</a> &middot; <a href="mailto:">Email</a> &middot; <a href="https://haghalaz.github.io/portfolio/">Portfolio</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=haghalaz&style=flat&color=6e7681&label=Profile+views" alt="Profile views" />
+</p>
